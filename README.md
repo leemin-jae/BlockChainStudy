@@ -186,7 +186,7 @@ contract FundRaising {
 
 * 결과 확인
 
-![1](asset/사진1.png)
+![1](asset/사진1.PNG)
 
 ### 이더리움 eth0 노드 구성
 
